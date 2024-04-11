@@ -1,0 +1,2 @@
+download "fastapi[all]"
+donwload sqlalchemy
