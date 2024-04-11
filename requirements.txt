@@ -1,2 +1,7 @@
-download "fastapi[all]"
-donwload sqlalchemy
+pip install fastapi - api 
+pip install sqlalchemy - database manager
+pip install uvicorn - runs server
+
+
+from internet install postgres - runs server
+from interner install Pgadmin4 - database GUI
